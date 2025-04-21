@@ -35,7 +35,7 @@ st.markdown("""
         padding-top: 2rem;
     }
     .main-title {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
         font-weight: 700;
         color: #1E90FF;
         margin-bottom: 1rem;
