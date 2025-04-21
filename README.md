@@ -27,7 +27,19 @@ This project provides an intelligent, mood-aware content discovery tool that ana
 
 ## 🖥️ Application Preview
 
-![App Preview](https://user-images.githubusercontent.com/your-username/app-preview.png) <!-- Optional if you have a screenshot -->
+![image](https://github.com/user-attachments/assets/9bdaf8d2-646a-4998-983c-49978b54b802)
+![image](https://github.com/user-attachments/assets/01bcb8d6-3929-49c6-b168-48fe24fa3abd)
+![image](https://github.com/user-attachments/assets/3ca9d096-9779-420c-a104-df9fceeb8dc8)
+![image](https://github.com/user-attachments/assets/4ef3a810-a55c-419f-9d40-a937caefcd40)
+![image](https://github.com/user-attachments/assets/ad12d532-3f10-45e8-ab9f-37cc15e91d16)
+![image](https://github.com/user-attachments/assets/34590bbf-563d-4573-83d1-89083d62c23c)
+![image](https://github.com/user-attachments/assets/9414597a-06a7-4886-8691-181f19bb3235)
+
+---
+
+## 🖥️ Deployed Streamlit Link
+
+https://movie-and-book-recommendations-with-tweets.streamlit.app/
 
 ---
 
