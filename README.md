@@ -62,9 +62,8 @@ https://movie-and-book-recommendations-with-tweets.streamlit.app/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/mvharsh/Movie-and-Book-Recommendations-with-Genre-Mapping-Twitter-Sentiment-Analysis.git
-cd Movie-and-Book-Recommendations-with-Genre-Mapping-Twitter-Sentiment-Analysis
-```
+git clone https://github.com/mvharsh/Movie-and-Book-Recommendations.git
+cd Movie-and-Book-Recommendations
 
 2. **Install dependencies**:
 
